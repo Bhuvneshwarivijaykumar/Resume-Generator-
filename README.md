@@ -7,12 +7,9 @@ An intelligent Resume Generator web application built with the MERN stack. This 
 ## 🚀 Features
 
 - 📝 Create professional resumes with form inputs
-- 🤖 AI-powered resume content suggestions (optional via API)
 - 📄 Live preview of the resume layout
 - 📥 Download resume as PDF
-- 🔐 User authentication (Sign Up / Sign In with JWT)
-- 📁 Saved resumes for each logged-in user
-- 🎨 Multiple templates (optional feature)
+
 
 ---
 
@@ -22,7 +19,7 @@ An intelligent Resume Generator web application built with the MERN stack. This 
 - React.js
 - React Router DOM
 - Axios
-- Tailwind CSS or CSS Modules (optional)
+- Tailwind CSS 
 - html2pdf.js or jsPDF for PDF export
 
 ### Backend:
